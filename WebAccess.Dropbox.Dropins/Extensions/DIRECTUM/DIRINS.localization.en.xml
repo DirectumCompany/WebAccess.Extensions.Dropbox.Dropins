@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Localization>
+  <s key="DIRINS">Directum Drop-ins</s>
+  <s key="DROPINS_EXPORT">Export to Dropbox</s>
+  <s key="DROPINS_IMPORT">Import from Dropbox</s>
+</Localization>

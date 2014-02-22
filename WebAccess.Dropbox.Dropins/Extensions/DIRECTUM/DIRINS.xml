@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Extension name="DIRINS" title="DIRINS" icon="/App_Sprites/SidebarAndExtensions/drop_icon.png" >
+  <Authorization/>
+  <AvailableObjects/>  
+  <Cards>
+    <Card type="EDocument" jsfile="/js/WebAccess.Extensions.Dirins.js"/>
+  </Cards>
+</Extension>
